@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "username": "Sevil",
+      "checked": false
+    },
+    {
+      "id": 4,
+      "username": "Nermin",
+      "checked": false
+    }
+  ]
+}
